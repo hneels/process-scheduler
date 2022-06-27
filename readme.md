@@ -3,6 +3,8 @@ Hope Neels
 
 Data Structures & Algorithms Final Project
 
+*Copying any portion of this project is a violation of Boston University's Academic Conduct Code and is strictly prohibited.*
+
 ## Introduction
 This documentation summarizes the data structures and methods used in Data Structures & Algorithms Final Project. The project is a small, simplified simulation of a CPU Scheduler, in which processes enter the “ready queue” when they are waiting to be executed. Unlike a real CPU Scheduler, each process runs to completion without interruption once it has started running. However, like some real CPUs, process priorities are updated when they have been waiting to ensure fair distribution of CPU time, and this is one of the primary tasks of implementing this assignment.
 
