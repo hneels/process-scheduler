@@ -14,6 +14,9 @@ From the assignment instructions:
 
 "The simulation program uses a logical time to keep track of the simulation process and the same logical time is used to represent the arrivalTime and duration. The simulation goes through a series of iterations and each iteration represents the passage of one logical time unit. At the beginning, the current time is set to time 0. Each iteration implements what occurs during one time unit and, at the end of each iteration, the current time is incremented." &copy; 2022 Boston University
 
+## How to Run
+Clone this repo and run the ProcessScheduling.java file from your terminal.
+
 
 ## Description of Data Structures
 
